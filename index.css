@@ -60,7 +60,7 @@ body {
   width: 131px;
 }
 .header {
-  background-image: url(/img/unsplash_IQVFVH0ajag.png);
+  background-image: url(img/unsplash_IQVFVH0ajag.png);
   background-size: cover;
   width: auto;
   background-repeat: no-repeat;
@@ -125,7 +125,7 @@ h2 {
 }
 .cent {
   margin-top: 122px;
-  background-image: url(/img/unsplash_CetB-bTDBtY.png);
+  background-image: url(img/unsplash_CetB-bTDBtY.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -171,7 +171,7 @@ h2 {
 }
 .videos {
   padding-top: 82px;
-  background-image: url(/img/unsplash2_IQVFVH0ajag.png);
+  background-image: url(img/unsplash2_IQVFVH0ajag.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 115px;
@@ -195,7 +195,7 @@ h2 {
 }
 .headers-form {
   margin-top: 127px;
-  background-image: url(/img/unsplash_CetB-bTDBtY.png);
+  background-image: url(img/unsplash_CetB-bTDBtY.png);
   background-repeat: no-repeat;
   border-style: cover;
   align-items: center;
@@ -256,7 +256,7 @@ h2 {
 }
 .form-right {
   padding: 5rem 5rem;
-  background-image: url(/img/Rectangle\ 666.png);
+  background-image: url(img/Rectangle\ 666.png);
 }
 input {
   display: block;
@@ -278,7 +278,7 @@ label {
 }
 .footer_up {
   margin-top: 66px;
-  background-image: url(/img/Rectangle\ 673.png);
+  background-image: url(img/Rectangle\ 673.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
